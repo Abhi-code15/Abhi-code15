@@ -223,12 +223,13 @@ A real-time analytics backend that ingests consumption readings, processes them 
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Abhi-code15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-code15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages" />
+<img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img height="190" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most used languages" />
+<img height="190" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
 
 <img src="https://streak-stats.demolab.com/?user=Abhi-code15&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-code15&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+<img height="190" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 
 ### 🐍 Contribution Snake
 
