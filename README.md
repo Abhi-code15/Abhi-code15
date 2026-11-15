@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1e3a8a,100:7c3aed&height=240&section=header&text=Abhishek%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=18" alt="Abhishek Tiwari" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1e3a8a,100:7c3aed&height=260&section=header&text=Abhishek%20Tiwari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Machine%20Learning&descAlignY=60&descSize=18" alt="Abhishek Tiwari" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=860&height=45&lines=Building+AI+agents+from+first+principles+%F0%9F%A4%96;Shipping+backend+systems+with+Node%2C+Express+%26+PostgreSQL+%E2%9A%99%EF%B8%8F;Turning+sensor+data+into+predictions+with+ML+%F0%9F%93%88;Request+%E2%86%92+API+%E2%86%92+Model+%E2%86%92+Insight+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi%2C+I%27m+Abhishek+%F0%9F%91%8B;Building+AI+agents+from+first+principles+%F0%9F%A4%96;Shipping+backend+systems+with+Node%2C+Express+%26+PostgreSQL+%E2%9A%99%EF%B8%8F;Turning+sensor+data+into+predictions+with+ML+%F0%9F%93%88;Request+%E2%86%92+API+%E2%86%92+Model+%E2%86%92+Insight+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhi-code15&label=PROFILE+VIEWS&color=7c3aed&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishek015-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek015)
@@ -11,18 +11,17 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 👋 About Me
 
-I'm **Abhishek**, a B.Tech student at **NIT Silchar** (Electronics & Instrumentation Engineering, 2028) who builds at the intersection of **AI, backend engineering and machine learning**.
+I'm **Abhishek**, a **B.Tech student at NIT Silchar** with a CS-focused path in **AI, backend engineering and machine learning**.
 
-My engineering background gives me a habit most CS students don't pick up early: I think in **signals, sensors and systems**. That's why my projects range from a **predictive-maintenance ML pipeline** to an **LLM agent engine** to **production-style REST backends**, and why I prefer building the hard parts myself rather than hiding behind a framework.
+My branch gave me an early opportunity to work with **sensors, signals and real-world systems**, and that shaped how I build: from a **predictive-maintenance ML pipeline** to an **LLM agent engine** to **production-style REST backends**. I like to understand how something works from the ground up, then ship it properly.
 
 ```python
 class Abhishek:
     role       = "AI + Backend Engineer (in the making)"
-    education  = "B.Tech EIE, NIT Silchar · 2024-2028"
     languages  = ["Python", "C++", "JavaScript", "SQL"]
     ai_ml      = ["LightGBM", "XGBoost", "Scikit-learn", "RAG", "MCP", "Ollama"]
     backend    = ["Node.js", "Express", "FastAPI", "PostgreSQL", "JWT", "Docker"]
@@ -30,7 +29,7 @@ class Abhishek:
     mindset    = "Understand it from scratch, then ship it properly."
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 🏗️ How I Think About Systems
 
@@ -50,7 +49,7 @@ flowchart LR
     style API fill:#0d1117,color:#fff
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -143,7 +142,7 @@ A real-time analytics backend that ingests consumption readings, processes them 
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 🧰 Tech Stack
 
@@ -159,15 +158,27 @@ A real-time analytics backend that ingests consumption readings, processes them 
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,jupyter&perline=5&theme=dark" alt="ai ml" />
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02A9E0?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge)
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Core CS**
+
+![DSA](https://img.shields.io/badge/DSA-F59E0B?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 **Tools & Deployment**
 
@@ -175,9 +186,7 @@ A real-time analytics backend that ingests consumption readings, processes them 
 
 </div>
 
-**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 💼 Experience
 
@@ -187,7 +196,7 @@ A real-time analytics backend that ingests consumption readings, processes them 
 - Contributed to the ideation and prototype design of **BhoomiAI**, an **IoT- and AI-enabled smart agriculture platform** delivering soil insights, crop recommendations and data-driven farming decisions
 - Explored **Industry 4.0** and industrial automation workflows: connected systems, process data and automation for manufacturing productivity
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 🏆 Achievements & Leadership
 
@@ -199,14 +208,14 @@ A real-time analytics backend that ingests consumption readings, processes them 
 | 🤖 **NERDS Robotics Club, NIT Silchar** | Core member; led robotics projects and club events reaching 200+ students |
 | 🛠️ **INSEES, NIT Silchar** | Technical & event management; departmental workshops for 100+ students |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi-code15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-code15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/Abhi-code15?style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117)](https://github.com/Abhi-code15?tab=followers)
+[![Last Commit](https://img.shields.io/github/last-commit/Abhi-code15/EngineSense?style=for-the-badge&logo=git&color=1e3a8a&labelColor=0d1117&label=Latest%20Push)](https://github.com/Abhi-code15/EngineSense)
 
 <img src="https://streak-stats.demolab.com/?user=Abhi-code15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -218,7 +227,7 @@ A real-time analytics backend that ingests consumption readings, processes them 
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:1e3a8a,70:7c3aed,100:0d1117&height=3" alt="" />
 
 ## 🤝 Let's Build Something
 
@@ -231,6 +240,6 @@ I'm open to **internships, AI / backend / ML engineering roles and collaboration
 
 *"Understand it from scratch. Ship it properly."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:1e3a8a,100:0d1117&height=110&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:1e3a8a,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" />
 
 </div>
