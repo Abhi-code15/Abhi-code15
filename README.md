@@ -1,55 +1,147 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1f2a44,100:3b82f6&height=230&section=header&text=Abhishek%20Tiwari&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20%2B%20AI%20Engineer%20%E2%80%A2%20Scalable%20Systems%20%E2%80%A2%20Agentic%20AI&descAlignY=62&descSize=17" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1e3a8a,100:7c3aed&height=240&section=header&text=Abhishek%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=18" alt="Abhishek Tiwari" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=820&height=45&lines=Designing+scalable+backend+systems+from+scratch+%E2%9A%99%EF%B8%8F;Building+autonomous+AI+agents+without+frameworks+%F0%9F%A4%96;REST+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+LLM+Tool+Calling+%E2%80%A2+RAG;From+Request+%E2%86%92+Queue+%E2%86%92+Agent+%E2%86%92+Response+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=860&height=45&lines=Building+AI+agents+from+first+principles+%F0%9F%A4%96;Shipping+backend+systems+with+Node%2C+Express+%26+PostgreSQL+%E2%9A%99%EF%B8%8F;Turning+sensor+data+into+predictions+with+ML+%F0%9F%93%88;Request+%E2%86%92+API+%E2%86%92+Model+%E2%86%92+Insight+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhi-code15&label=PROFILE+VIEWS&color=3b82f6&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishek015-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek015)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhi-code15&label=PROFILE+VIEWS&color=7c3aed&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishek015-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek015)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekstu15@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open_to_Internships_%26_Collabs-22c55e?style=flat-square)
+![Status](https://img.shields.io/badge/Open_to-Internships_%26_Collabs-22c55e?style=flat-square)
 
 </div>
 
 ---
 
-## ⚡ Who I Am
+## 👋 About Me
 
-I'm **Abhishek**, a CS-focused engineer-in-the-making (B.Tech, NIT Silchar, 2028) who builds **backend systems and AI-powered services**.
+I'm **Abhishek**, a B.Tech student at **NIT Silchar** (Electronics & Instrumentation Engineering, 2028) who builds at the intersection of **AI, backend engineering and machine learning**.
 
-I don't just want to *use* frameworks, I want to understand what's under them. So I build the hard parts myself: auth flows, payment workflows, real-time pipelines, and an **autonomous AI agent written from zero**.
+My engineering background gives me a habit most CS students don't pick up early: I think in **signals, sensors and systems**. That's why my projects range from a **predictive-maintenance ML pipeline** to an **LLM agent engine** to **production-style REST backends**, and why I prefer building the hard parts myself rather than hiding behind a framework.
 
 ```python
 class Abhishek:
-    role      = "Backend + AI Engineer (in the making)"
-    building  = ["Paylog", "Agentra", "AI Agent from Scratch"]
-    obsessed  = ["scalability", "clean APIs", "agentic systems", "fundamentals"]
-    learning  = ["system design", "distributed systems", "RAG", "MCP", "LangGraph"]
-    goal      = "Design & ship production-grade, AI-powered systems from scratch"
+    role       = "AI + Backend Engineer (in the making)"
+    education  = "B.Tech EIE, NIT Silchar · 2024-2028"
+    languages  = ["Python", "C++", "JavaScript", "SQL"]
+    ai_ml      = ["LightGBM", "XGBoost", "Scikit-learn", "RAG", "MCP", "Ollama"]
+    backend    = ["Node.js", "Express", "FastAPI", "PostgreSQL", "JWT", "Docker"]
+    building   = ["EngineSense", "Autonomous AI Agent Engine", "Agentra AI"]
+    mindset    = "Understand it from scratch, then ship it properly."
 ```
 
 ---
 
-## 🎯 The North Star
-
-> **Backend + AI Engineer** who can take a system from a blank file to production: schema, APIs, auth, queues, caching, containers, deployment, and the **AI layer** (agents, tools, memory, retrieval) on top.
+## 🏗️ How I Think About Systems
 
 ```mermaid
 flowchart LR
-    C([Client]) --> G[API Gateway<br/>Auth • Rate Limit]
-    G --> S1[Core Services<br/>Node • Express]
-    G --> A[AI Agent Layer<br/>ReAct • Tools • Memory]
-    S1 --> DB[(PostgreSQL)]
-    S1 --> R[(Redis Cache)]
-    S1 --> Q{{Message Queue}}
-    A --> L[LLM<br/>Ollama • OpenAI API]
-    A --> V[(Vector Store<br/>RAG)]
-    A --> T[External Tools<br/>MCP]
-    Q --> W[Background Workers]
-    W --> DB
-    style A fill:#3b82f6,color:#fff
-    style G fill:#1f2a44,color:#fff
+    U([User / Client]) --> API[REST API<br/>Node · Express · FastAPI]
+    API --> AUTH{{JWT Auth<br/>Validation}}
+    AUTH --> DB[(PostgreSQL)]
+    API --> ML[ML Service<br/>LightGBM · XGBoost]
+    API --> AG[AI Agent Layer<br/>LLM · Tools · Memory]
+    AG --> LLM[Ollama · OpenAI-compatible API]
+    AG --> RAG[(Knowledge Base<br/>RAG)]
+    AG --> MCP[External Tools<br/>MCP]
+    ML --> DASH[Streamlit · React Dashboards]
+    style AG fill:#7c3aed,color:#fff
+    style ML fill:#1e3a8a,color:#fff
+    style API fill:#0d1117,color:#fff
 ```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 [EngineSense](https://github.com/Abhi-code15/EngineSense)
+**Predictive Maintenance for Engines** · `ML`
+
+A machine learning platform that predicts engine faults from sensor data and serves them through an interactive dashboard.
+
+- Pipeline over **12.5K+ engine records** and **6 sensor parameters**, with leakage-free preprocessing and stratified train/val/test splits
+- Tuned **LightGBM** reached **94.68% fault recall**, with **48.63% fewer missed faults** than the Random Forest baseline (5-fold CV, holdout-tested)
+- **Streamlit** app with model selection, validated inference and prediction history
+- **27 automated unit & integration tests** with pytest
+
+`Python` `LightGBM` `XGBoost` `Scikit-learn` `Pandas` `Streamlit` `pytest`
+
+[🌐 Live Demo](https://enginesense-ai.streamlit.app/) · [📂 Code](https://github.com/Abhi-code15/EngineSense)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Autonomous AI Agent Engine](https://github.com/Abhi-code15/ai-agent-from-scratch)
+**LLMs → Multi-Agent Systems** · `AI` · 🔨 *in progress*
+
+An agent engine built layer by layer, covering LLM fundamentals, retrieval and standardized tool use, with no agent framework underneath.
+
+- Local assistant on **Ollama + Qwen 2.5** with conversational memory, system prompts and an **OpenAI-compatible API**
+- **RAG pipeline** that grounds answers in custom knowledge sources
+- **Model Context Protocol (MCP)** integration so the agent can reach external tools and resources
+- ReAct-style loop, function calling and streaming, documented in an engineering logbook
+
+`Python` `Ollama` `Qwen 2.5` `RAG` `MCP` `Function Calling`
+
+[📂 Code](https://github.com/Abhi-code15/ai-agent-from-scratch)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [Agentra AI](https://github.com/Abhi-code15/Agentra-Ai)
+**AI-Powered Workflow Automation** · `AI + Backend`
+
+A full-stack platform where users describe a task and an LLM-driven backend plans and executes it through tool calling, with results shown in a structured UI.
+
+- **Prompt engineering and tool calling** connect user intent to real actions
+- Modular **Express** services separate request handling, orchestration and AI logic
+- **React + Vite** interface for managing AI-assisted workflows
+- Containerized with **Docker** for reproducible setup
+
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `LLM Tool Calling` `Docker`
+
+[📂 Code](https://github.com/Abhi-code15/Agentra-Ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [Paylog](https://github.com/Abhi-code15/Paylog)
+**Smart Finance & UPI Payment Tracker** · `Backend`
+
+A full-stack finance platform that joins expense tracking with a QR-based UPI payment workflow.
+
+- **QR scanning and UPI deep-linking** to start payments from any compatible UPI app
+- Payment-confirmation flow that records outcomes next to expenses
+- **RESTful APIs** for income, expenses and transactions on **PostgreSQL**
+- **JWT authentication** with strict user-scoped data access
+
+`React` `Node.js` `Express` `PostgreSQL` `JWT` `REST`
+
+[🌐 Live Demo](https://paylog-flow.onrender.com/) · [📂 Code](https://github.com/Abhi-code15/Paylog)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚡ [WattWise](https://github.com/Abhi-code15/WattWise)
+**Real-Time Energy Analytics Platform** · `Backend + Real-time`
+
+A real-time analytics backend that ingests consumption readings, processes them and streams insights to a live dashboard. **Socket.IO** drives event-driven updates, **Prisma + PostgreSQL** form the data layer with **Zod** request validation, and the whole stack (frontend, API, database) is **Dockerized** and tested with **Vitest & Supertest**.
+
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO` `Zod` `Docker` `Vitest`
+
+[📂 Code](https://github.com/Abhi-code15/WattWise)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,186 +149,71 @@ flowchart LR
 
 <div align="center">
 
-### 🔧 Daily Drivers
+**Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=py,js,nodejs,express,react,vite,postgres,prisma,docker,git,github,postman,vercel&perline=13&theme=dark" alt="daily drivers" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,postgres,mongodb&perline=6&theme=dark" alt="languages and databases" />
 
-<sub>Python · JavaScript · Node.js · Express · React · Vite · PostgreSQL · Prisma · Docker · Git · GitHub · Postman · Vercel</sub>
+**Backend & Web**
 
-### 🤖 AI Engineering & Systems
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,vite,tailwind,prisma,socketio&perline=8&theme=dark" alt="backend and web" />
 
-![Python](https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Graphs-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent-FF5A50?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Vector_Embeddings-0EA5E9?style=for-the-badge)
+**AI / ML**
 
-### 🏗️ Backend & Infrastructure
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,jupyter&perline=5&theme=dark" alt="ai ml" />
 
-![Express](https://img.shields.io/badge/REST_API_Design-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest_%2B_Supertest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A9E0?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🚀 Leveling Up (Active Learning)
+**Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=redis,kafka,rabbitmq,kubernetes,aws,nginx,linux,githubactions,grafana,prometheus&perline=10&theme=dark" alt="learning" />
-
-<sub>Redis · Kafka · RabbitMQ · Kubernetes · AWS · Nginx · Linux · GitHub Actions · Grafana · Prometheus</sub>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux&perline=6&theme=dark" alt="tools" />
 
 </div>
 
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+
 ---
 
-## 🧠 Engineering Foundations
+## 💼 Experience
 
-Strong fundamentals are what make systems scale. This is the depth I'm building, topic by topic.
+**🏭 Siemens Scholar Trainee** · *Siemens India, Nashik* · May – Jun 2026
 
-| Domain | What I'm mastering |
+- Completed the **Siemens Mechatronics Systems Certification Program (Level 1)** and **Business & Manufacturing Excellence (BMEX)** under the Siemens Scholarship Program
+- Contributed to the ideation and prototype design of **BhoomiAI**, an **IoT- and AI-enabled smart agriculture platform** delivering soil insights, crop recommendations and data-driven farming decisions
+- Explored **Industry 4.0** and industrial automation workflows: connected systems, process data and automation for manufacturing productivity
+
+---
+
+## 🏆 Achievements & Leadership
+
+| | |
 |:---|:---|
-| 🔢 **Data Structures & Algorithms** | Hash maps, heaps, tries, graphs, DP, sliding window, two pointers, binary search on answer, backtracking · **300+ problems solved** |
-| 🗄️ **DBMS & Storage** | ACID, transaction isolation levels, MVCC, B-Tree/Hash indexing, query planning (`EXPLAIN`), normalization vs denormalization, connection pooling, migrations |
-| 🖥️ **Operating Systems** | Processes vs threads, scheduling, concurrency & deadlocks, mutex/semaphores, virtual memory, paging, I/O models, event loop internals |
-| 🌐 **Computer Networks** | TCP/UDP, HTTP/1.1 → HTTP/2, TLS handshake, DNS, WebSockets, CORS, load balancing, reverse proxies, CDN basics |
-| 🧩 **OOP & Design** | SOLID, design patterns (Factory, Strategy, Observer, Singleton), clean architecture, dependency injection, C++ memory model & RAII |
-| 🏛️ **System Design** | CAP & PACELC, sharding, replication, consistent hashing, caching strategies, rate limiting, idempotency, pub/sub, event-driven design |
-| 🔐 **API & Security** | REST maturity, versioning, pagination, JWT/refresh flows, OAuth 2.0, input validation, OWASP Top 10, secrets management |
-| 🤖 **AI Systems** | ReAct loops, function calling via JSON Schema, context-window management, streaming (TTFT), embeddings, retrieval pipelines, multi-agent orchestration |
+| 🎓 **Siemens Scholar (2024)** | 1 of 300 students chosen from 10,000+ government engineering college applicants across India |
+| 🥇 **HMEL Energy Quest 3.0** | One of 30 national winners |
+| 🧠 **Problem Solving** | 300+ problems solved across coding platforms (DSA) |
+| 🤖 **NERDS Robotics Club, NIT Silchar** | Core member; led robotics projects and club events reaching 200+ students |
+| 🛠️ **INSEES, NIT Silchar** | Technical & event management; departmental workshops for 100+ students |
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [Autonomous AI Agent from Scratch](https://github.com/Abhi-code15/ai-agent-scratch) `🔨 In Progress`
-
-Building an autonomous AI agent and a multi-agent system **from ground zero, without high-level abstraction frameworks**. Every layer is implemented by hand so I understand exactly how agents work.
-
-| Layer | What I built / am building |
-|:---|:---|
-| 🏠 **Local inference** | Offline, zero-cost private inference with **Ollama** (`qwen2.5:1.5b`) over OpenAI-compatible REST endpoints |
-| 🧠 **Memory engineering** | Persistent conversation history to beat LLM statelessness, plus context-window compaction routines |
-| 🛠️ **Tool engine** | Function-calling pipelines via JSON Schema signatures and Python dynamic dispatch tables (`**kwargs`) |
-| 🔁 **ReAct loop** | Iterative decision-making, chained multi-step tool calls, `MAX_STEPS` loop guards, exception self-healing |
-| ⚡ **Streaming** | Low Time-To-First-Token by reassembling fragmented chunk deltas during live output |
-| 🔭 **Upcoming** | **MCP**, **RAG** with semantic embeddings, stateful multi-agent graphs with **LangGraph** & **CrewAI** |
-
-`Python 3.12+` `Ollama` `OpenAI SDK` `REST` `JSON Schema` `Git`
-
-[📂 Repository](https://github.com/Abhi-code15/ai-agent-scratch) · [📓 Engineering Logbook](https://github.com/Abhi-code15/ai-agent-scratch/blob/main/LOGBOOK.md)
-
----
-
-### 🧩 [Agentra: AI-Powered Workflow Automation Platform](https://github.com/Abhi-code15?tab=repositories&q=agentra)
-
-A full-stack AI platform where users describe tasks and an LLM-driven backend plans and executes them through tool calling, with outputs shown in a structured interface.
-
-- LLM integration with prompt engineering and **tool-calling** to connect user intent to real actions
-- Modular Express services that cleanly separate request handling, orchestration and AI logic
-- Interactive React + Vite interface for managing AI-assisted workflows
-- Containerized with **Docker** for reproducible setup
-
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `LLM Integration` `Tool Calling` `Docker`
-
----
-
-### 💸 [Paylog: Smart Finance & UPI Payment Tracker](https://github.com/Abhi-code15?tab=repositories&q=paylog)
-
-A full-stack finance platform that joins expense tracking with a QR-based UPI payment workflow.
-
-- **JWT authentication** with strict user-scoped data access to protect financial records
-- RESTful APIs for income, expense and transaction management on **PostgreSQL**
-- QR scanning + UPI deep-linking to start payments from any compatible UPI app
-- Payment-confirmation workflow that records outcomes alongside expenses
-
-`React` `Node.js` `Express` `PostgreSQL` `JWT` `REST APIs`
-
----
-
-### ⚡ [WattWise: Real-Time Energy Analytics Platform](https://github.com/Abhi-code15?tab=repositories&q=wattwise)
-
-A real-time analytics backend that ingests consumption readings, processes them and streams insights to a live dashboard.
-
-- Event-driven updates with **Socket.IO** for live dashboards
-- **Prisma + PostgreSQL** data layer with **Zod** request validation
-- Tested with **Vitest & Supertest**; fully **Dockerized** (frontend, API, database)
-
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO` `Zod` `Docker` `Vitest`
-
----
-
-## 🗺️ Roadmap: Becoming a Backend + AI Engineer
-
-```text
- PHASE 1  ✅  Full-stack foundations   React · Node · Express · PostgreSQL · JWT · Docker
- PHASE 2  ✅  Real-time & data layers  Socket.IO · Prisma · validation · API testing
- PHASE 3  🔄  AI from first principles Local LLMs · ReAct · tool calling · memory · streaming
- PHASE 4  🔄  Scalable architecture    Caching · queues · rate limiting · load balancing
- PHASE 5  ⏭️  Advanced AI systems      RAG · MCP · LangGraph · CrewAI · multi-agent graphs
- PHASE 6  ⏭️  Cloud & production       AWS · Kubernetes · CI/CD · observability
- PHASE 7  🎯  Capstone                 A scalable, AI-powered platform built end-to-end
-```
-
-<details>
-<summary><b>📈 Skill progress (click to expand)</b></summary>
-
-<br>
-
-| Skill | Progress |
-|:---|:---|
-| Backend (Node/Express/REST) | ![](https://img.shields.io/badge/-████████░░_80%25-3b82f6?style=flat-square) |
-| PostgreSQL & Data Modeling | ![](https://img.shields.io/badge/-███████░░░_70%25-3b82f6?style=flat-square) |
-| Docker & Deployment | ![](https://img.shields.io/badge/-██████░░░░_60%25-3b82f6?style=flat-square) |
-| LLM Agents & Tool Calling | ![](https://img.shields.io/badge/-██████░░░░_60%25-8b5cf6?style=flat-square) |
-| System Design | ![](https://img.shields.io/badge/-████░░░░░░_40%25-f59e0b?style=flat-square) |
-| RAG / MCP / Multi-Agent | ![](https://img.shields.io/badge/-███░░░░░░░_30%25-f59e0b?style=flat-square) |
-| Cloud (AWS) & Kubernetes | ![](https://img.shields.io/badge/-██░░░░░░░░_20%25-ef4444?style=flat-square) |
-
-</details>
-
----
-
-## 🧭 How I Build
-
-- **Fundamentals first**: I implement the core idea by hand before reaching for a framework.
-- **Design for scale from day one**: stateless services, clean boundaries, indexed queries.
-- **Secure by default**: validated input, scoped data access, no secrets in code.
-- **Tested & reproducible**: automated tests, Dockerized setups, documented decisions.
-- **Learn in public**: engineering logbooks, not just code.
-
----
-
-## 🏆 Highlights
-
-- 🎓 **Siemens Scholar 2024**, selected from 10,000+ applicants nationwide
-- 🥇 **HMEL Energy Quest 3.0** national winner (top 30)
-- 🧠 **300+ DSA problems** solved across coding platforms
-- 🤝 Core member, **NERDS Robotics Club** & technical team, **INSEES** at NIT Silchar
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
-<img height="190" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most used languages" />
-<img height="190" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi-code15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-code15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=Abhi-code15&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img height="190" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
-
-### 🐍 Contribution Snake
+<img src="https://streak-stats.demolab.com/?user=Abhi-code15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi-code15/Abhi-code15/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi-code15/Abhi-code15/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Abhi-code15/Abhi-code15/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Abhi-code15/Abhi-code15/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -245,15 +222,15 @@ A real-time analytics backend that ingests consumption readings, processes them 
 
 ## 🤝 Let's Build Something
 
-I'm open to **internships, backend/AI engineering roles, and collaborations** on scalable systems and agentic AI.
+I'm open to **internships, AI / backend / ML engineering roles and collaborations**. If you're working on agents, ML products or backend systems, I'd love to talk.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek015)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek015)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekstu15@gmail.com)
 
-*"Build systems that scale, and make them intelligent."*
+*"Understand it from scratch. Ship it properly."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1f2a44,100:0d1117&height=110&section=footer&animation=twinkling" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:1e3a8a,100:0d1117&height=110&section=footer" alt="footer" />
 
 </div>
